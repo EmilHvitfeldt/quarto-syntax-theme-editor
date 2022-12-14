@@ -1,0 +1,45 @@
+---
+format: html
+highlight-style: custom.theme
+toc: true
+---
+
+## Translation
+
+The resulting html file will have the code colored using 2-letter `html` classes. Below are a list of the html class name and their corresponding `.theme` names. 
+
+- al: **Alert**
+- an: **Annotation**
+- at: **Attribute**
+- bn: **BaseN**
+- cf: **ControlFlow**
+- ch: **Char**
+- cn: **Constant**
+- co: **Comment**
+- cv: **CommentVar**
+- do: **Documentation**
+- dt: **DataType**
+- dv: **DecVal**
+- er: **Error**
+- fl: **Float**
+- fu: **Function**
+- in: **Information**
+- kw: **Keyword**
+- op: **Operator**
+- ot: **Other**
+- pp: **Preprocessor**
+- sc: **SpecialChar**
+- ss: **SpecialString**
+- st: **String**
+- va: **Variable**
+- vs: **VerbatimString**
+- wa: **Warning**
+
+
+## R
+
+{{< include code-r.qmd >}}
+
+## Python
+
+{{< include code-python.qmd >}}
