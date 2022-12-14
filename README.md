@@ -1,5 +1,5 @@
 
-# qyarto-syntax-theme-editor
+# quarto-syntax-theme-editor
 
 <!-- badges: start -->
 <!-- badges: end -->
